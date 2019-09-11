@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^3.21.2",
+    "jade": "^1.11.0",
+    "nib": "^1.1.2",
+    "stylus": "^0.54.7"
+  },
+  "author": "Raphael",
+  "license": "ISC"
+}
